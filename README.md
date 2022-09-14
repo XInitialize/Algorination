@@ -1,2 +1,2 @@
 # Algorination
-A repository to share methods for some funny and useful applications
+A repository to share methods for some funny and useful applications of algorithms.
